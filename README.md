@@ -40,12 +40,7 @@ I am looking forward to a trip to __Bali__ or __Japan__!
 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
 _John Lennon_!
-I have a _few_ favorites:
-    - Come Together
-    - Yesterday
-    - Here Comes The Sun
-    - Sgt. Pepper's Lonely Hearts Club Band
-    - With a Little Help From My Friends
+I have a _few_ favorites: Come Together, Yesterday, Here Comes The Sun, Sgt. Pepper's Lonely Hearts Club Band, With a Little Help From My Friends
 
 Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem). 
 Yes! :smiling:
