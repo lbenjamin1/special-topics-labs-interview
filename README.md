@@ -36,10 +36,10 @@ I decided to take the CSCC program to become a better Java programmer. I had a s
 
 Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
 I haven't been able to travel much but I had a great time in Philly when I visited. Good shopping and great cheesesteaks.
-I am looking forward to a trip to Bali or Japan!
+I am looking forward to a trip to __Bali__ or __Japan__!
 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
-John Lennon!
+_John Lennon_!
 I have a _few_ favorites:
     * Come Together
     * Yesterday
@@ -49,7 +49,7 @@ I have a _few_ favorites:
 
 Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem). 
 Yes!
-Husky/Nala/[She's a derp](images/Nals.jpg?,raw) also, the quietest, most cat like, friendly dog ever.
+Husky/Nala/[She's a derp](images/Nals.jpg?raw) also, the quietest, most cat like, friendly dog ever.
 
 ## Submitting Your Work
 Once I have merged your pull request into my repo, please submit your repo along with a screenshot of your pull request in Blackboard.
